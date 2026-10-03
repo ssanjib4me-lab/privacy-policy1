@@ -1,0 +1,7 @@
+<en-US>
+Initial release of AI Photo Studio!
+- Instant AI background remover with high-precision edge cutouts
+- Photo editor with custom filters, adjustments, and cropping tools
+- Image compression and optimization with custom quality controls
+- Fast and secure on-device processing
+</en-US>
